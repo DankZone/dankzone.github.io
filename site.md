@@ -1,6 +1,6 @@
 ## Welcome to the Dank Zone Discord server website
 
-This is a website made for [our discord server](https://discordapp.com/invite/gwamp7n)
+This is a website made for [our discord server](https://discordapp.com/invite/gwamp7n).
 
 
 ### Support or Contact
