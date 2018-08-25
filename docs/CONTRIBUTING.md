@@ -2,7 +2,7 @@
 
 Hi there! We're thrilled that you'd like to contribute to our website. Your help is essential for keeping it great.
 
-The Dank Zone Website is open-source, that means anyone is allowed contribute to it. However your work will first be checked before it is applied.
+The Dank Zone Website is open-source, that means anyone is allowed contribute to it. However your work will first be checked before it is merged.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
