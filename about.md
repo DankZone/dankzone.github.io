@@ -8,6 +8,7 @@ But how did the server grow from less than 10 people to the number we have today
 Just take a look at our Discord server now, we wouldn't have ever gotten this far without our amazing team.
 <iframe src="https://discordapp.com/widget?id=344369585950294016&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0"></iframe>
 
+___
 
 ### Contact
 
