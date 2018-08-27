@@ -12,4 +12,4 @@ ___
 
 ### Contact
 
-We have a great team who you can trust. You can ask an admin or co-owner in [our Discord server](https://discordapp.com/invite/gwamp7n) or you can drop us an email at dankzonediscord@gmail.com
+We have a great team who you can trust. You can ask an admin or co-owner in [our Discord server](https://discordapp.com/invite/gwamp7n) or you can drop us an email at [dankzonediscord@gmail.com](mailto:dankzonediscord@gmail.com)
