@@ -6,7 +6,7 @@ Our Discord server was originally created to be a community Discord server for <
 But how did the server grow from less than 10 people to the number we have today? In short, we banded together with more people (me included). So our server of less than 10 friends managed to grow to a huge team with many followers, which is what you see today (example below).
 
 Just take a look at our Discord server now, we wouldn't have ever gotten this far without our amazing team.
-<iframe src="https://discordapp.com/widget?id=344369585950294016&theme=dark" width="500" height="600" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=344369585950294016&theme=dark" width="600" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ___
 
