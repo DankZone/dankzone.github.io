@@ -9,7 +9,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Looking for support?
 
-Check out [our Discord server](https://discordapp.com/invite/gwamp7n).
+Check out [our Discord server](https://discordapp.com/invite/gwamp7n) or drop us an email dankzonediscord@gmail.com.
 
 ## How to report a bug
 
