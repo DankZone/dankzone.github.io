@@ -75,7 +75,7 @@ At a high level, [the process for proposing changes](https://guides.github.com/i
 
 ## Code of conduct
 
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project is governed by [the Contributor Covenant Code of Conduct](https://github.com/DankZone/dankzone.github.io/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## Additional Resources
 
