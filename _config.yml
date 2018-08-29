@@ -1,6 +1,5 @@
-theme: jekyll-theme-dinky
+theme: minima
 title: Dank Zone
 description: Official website for the Dank Zone Discord server
 show_downloads: false
 google_analytics: UA-124606983-1
-logo: logo.jpg
