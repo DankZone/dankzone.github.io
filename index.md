@@ -1,5 +1,6 @@
 ## Welcome to the Dank Zone Discord server website
 
+Site currently in development.
 This is a website made for [our discord server](https://discordapp.com/invite/gwamp7n).
 
 
