@@ -4,7 +4,7 @@ Below is all our open-source GitHub repositories.
 
 <p>Website:
   <a href="https://github.com/DankZone/dankzone.github.io">dankzone.github.io</a>
-Custom Discord Bot:
-  <a href="https://github.com/DankZone/ShpeeBot">ShpeeBot</a></p>
+  
+[Custom Discord Bot:](https://github.com/DankZone/ShpeeBot)
 
 Check back later for more!
