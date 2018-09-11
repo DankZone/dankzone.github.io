@@ -12,4 +12,6 @@ ___
 
 ## Contact
 
-We have a great team who you can trust. You can ask an admin or co-owner in [our Discord server](https://discordapp.com/invite/gwamp7n) or you can drop us an email at [dankzonediscord@gmail.com](mailto:dankzonediscord@gmail.com)
+We have a great team who you can trust. You can ask an admin or co-owner in [our Discord server](https://discordapp.com/invite/gwamp7n) or you can drop us an email at [dankzonediscord@gmail.com](mailto:dankzonediscord@gmail.com)<br/>
+<br/>
+We have Leo our developer to post all GitHub related updates on [his Twitter page](https://twitter.com/Leodoesthings04)
