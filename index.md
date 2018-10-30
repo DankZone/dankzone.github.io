@@ -1,9 +1,10 @@
 ## Welcome to the Dank Zone Discord server website
 
-Site currently in development.
+<p>Site currently in development.
 This is a website made for <a href="https://discordapp.com/invite/gwamp7n">our Discord server</a>.
 
-These days a Discord server can be anything. It can go from the totally normal gaming, to virtual churches praising the lord Gaben.</br>
+These days a Discord server can be anything. It can go from the totally normal gaming, to virtual churches praising the lord Gaben.
+
 But our server is neither of those. We are a community of gamers built around the original purpose. This is a Discord server for a YouTube channel.</br>
 Don't click off yet! Because I still need to get you into our server. So stick around.
 
@@ -14,7 +15,7 @@ We have special roles on our server for people with selected linked accounts (eg
 We have text channels for almost everything so you can talk about anything.</br>
 If you want to talk to a human then we have a few voice channels that are added and removed based on demand.
 
-<a href="https://discordapp.com/invite/gwamp7n">Join Now!</a>
+<a href="https://discordapp.com/invite/gwamp7n">Join Now!</a></p>
 
 ### Support or Contact
 
