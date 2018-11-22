@@ -1,6 +1,6 @@
 ## This is a testing repo
 
-[![Build Status](https://circleci.com/gh/DankZone/dankzone.github.io.svg)](https://circleci.com/gh/DankZone/dankzone.github.io)</br>
+[![Build Status](https://circleci.com/gh/LeoDoesThings/dankzonesite.svg)](https://circleci.com/gh/LeoDoesThings/dankzonesite)</br>
 This repo is made for testing purposes only. It is for the development of the Dank Zone website.
 
 ### Contributing
