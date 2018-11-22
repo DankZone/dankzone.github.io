@@ -1,6 +1,6 @@
 ## Welcome to the Dank Zone Discord server website
 
-[![Build Status](https://circleci.com/gh/DankZone/dankzone.github.io.svg)](https://circleci.com/gh/DankZone/dankzone.github.io)
+[![Build Status](https://circleci.com/gh/DankZone/dankzone.github.io.svg)](https://circleci.com/gh/DankZone/dankzone.github.io)</br>
 Server currently in development. Please check back later
 
 ### Contributing
