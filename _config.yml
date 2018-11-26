@@ -1,5 +1,12 @@
-theme: jekyll-theme-midnight
+remote_theme: mmistakes/jekyll-theme-basically-basic
 title: Dank Zone
 description: Official website for the Dank Zone Discord server
 show_downloads: false
 google_analytics: UA-124606983-1
+logo: /assets/icons/logo.png
+email: dankzonediscord@gmail.com
+github_username: DankZone
+twitter_username: Leodoesthings04
+search: true
+search_full_content: true
+search_provider: lunr
