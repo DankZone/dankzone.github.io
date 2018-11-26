@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "LeoDoesThings",
+    "label": "Very nerdy man",
+    "picture": "",
+    "email": "leodoesthings@outlook.com",
+    "phone": "",
+    "website": "leodoesthings.weebly.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Leodoesthings04",
+        "url": "https://twitter.com/Leodoesthings04"
+      },
+      {
+        "network": "YouTube",
+        "username": "LeoDoesThings",
+        "url": "https://www.youtube.com/channel/UCvtR1-h7I7GXQ7_XMp4JC2A"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DankZone",
+      "position": "IT Manager/Developer",
+      "website": "dankzone.github.io",
+      "startDate": "2017-8-20",
+      "endDate": "",
+      "summary": "A Discord server aimed at gamers and YouTubers.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Programming",
+      "level": "Developing",
+      "keywords": [
+        "Student",
+        "Hardworking"
+      ]
+    },
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Modern Technology",
+      "keywords": [
+        "MKBHD",
+        "Linus",
+        "Austin Evans",
+        "Dave2D",
+        "Jonathan Morrison"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Steve Jobs",
+      "reference": "It is my pleasure to recommend Leo, his performance working as a developer for DankZone proved that he will be a valuable addition to any company."
+    }
+  ]
+}
