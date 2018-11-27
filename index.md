@@ -19,5 +19,5 @@ If you want to talk to a human then we have a few voice channels that are added 
 
 ### Support or Contact
 
-Having trouble with our Discord server? [Contact us](mailto:dankzonediscord@gmail.com) and we’ll help you sort it out.</br>
+Having trouble with our Discord server? [Contact us](mailto:dankzonediscord@gmail.com) and we’ll help you sort it out.<br/>
 Please note that this is for out Discord server only. We will not provide support for technical issues. To resolve Discord app issues, please [contact Discord Support](https://support.discordapp.com/)
