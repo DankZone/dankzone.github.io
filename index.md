@@ -1,7 +1,7 @@
 ## Welcome to the Dank Zone Discord server website
 
 <p>Site currently in development.
-This is a website made for <a href="https://discordapp.com/invite/gwamp7n">our Discord server</a>.
+This is a website made for <a href="https://discordapp.com/invite/gwamp7n">our Discord server</a>.<br/>
 
 These days a Discord server can be anything. It can go from the totally normal gaming, to virtual churches praising the lord Gaben.
 
