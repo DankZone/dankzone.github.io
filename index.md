@@ -14,7 +14,7 @@ We have special roles on our server for people with selected linked accounts (eg
 We have text channels for almost everything so you can talk about anything.<br>
 If you want to talk to a human then we have a few voice channels that are added and removed based on demand.<br>
 <br>
-<a href="https://discordapp.com/invite/gwamp7n">Join Now!</a></p><br>
+<a href="https://discordapp.com/invite/gwamp7n">Join our Discord now!</a></p><br>
 
 ### Support or Contact
 
