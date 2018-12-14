@@ -4,7 +4,7 @@
 This is a website made for <a href="https://discordapp.com/invite/gwamp7n">our Discord server</a>.<br>
 <br>
 These days a Discord server can be anything.<br>
-But our server is neither of those. This server is focused on a building a gaming (and meme) community. The original concept was to be a server only for YouTobe viewers, but we've expanded that goal to maybe one day create an esports team from just our Discord server.
+But our server is neither of those. This server is focused on a building a gaming (and meme) community. The original concept was to be a server only for YouTube viewers, but we've expanded that goal to maybe one day create an esports team from just our Discord server.
 Don't click off yet! Because we still need to get you into our server. So stick around.<br>
 <br>
 We have a brief explanation of our Discord server in our <a href="./about.html">about page</a>.<br>
