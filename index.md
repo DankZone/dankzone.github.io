@@ -1,7 +1,7 @@
 ## Welcome to the Dank Zone Discord server website
 
-<meta http-equiv="Refresh" content="7; url=//https://dankzonediscord.glitch.me/" />
-<p>Please go to the <a href="//https://dankzonediscord.glitch.me/">new website</a></p>
+<meta http-equiv="Refresh" content="7; url=https://dankzonediscord.glitch.me/" />
+<p>Please go to the <a href="https://dankzonediscord.glitch.me/">new website</a></p>
 
 ---
 
