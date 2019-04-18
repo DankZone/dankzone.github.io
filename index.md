@@ -1,1 +1,1 @@
-# Please go to the [https://dankzonediscord.glitch.me/](new website)
+# Please go to the [new website](https://dankzonediscord.glitch.me/)
